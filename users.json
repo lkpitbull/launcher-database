@@ -1,8 +1,8 @@
 {
  "users":[
   {
-   "email":"cliente@email.com",
-   "password":"123456"
+   "email":"@email.com",
+   "password":""
   },
   {
    "email":"cliente2@email.com",

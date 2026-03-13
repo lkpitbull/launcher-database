@@ -3,14 +3,14 @@
     {
       "email": "1",
       "password": "1",
-      "hwid": "",
-      "expires": "2026-14-03"
+      "expires": "2026-03-14T23:59:59",
+      "hwid": ""
     },
     {
-      "email": "cliente2@gmail.com",
+      "email": "teste@gmail.com",
       "password": "123456",
-      "hwid": "PC-XYZ999",
-      "expires": "2026-03-20"
+      "expires": "2026-04-01T23:59:59",
+      "hwid": ""
     }
   ]
 }

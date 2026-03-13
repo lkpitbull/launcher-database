@@ -1,12 +1,16 @@
 {
- "users":[
-  {
-   "email":"1",
-   "password":"1"
-  },
-  {
-   "email":"2",
-   "password":"2"
-  }
- ]
+  "users": [
+    {
+      "email": "1",
+      "password": "1",
+      "hwid": "",
+      "expires": "2026-14-03"
+    },
+    {
+      "email": "cliente2@gmail.com",
+      "password": "123456",
+      "hwid": "PC-XYZ999",
+      "expires": "2026-03-20"
+    }
+  ]
 }

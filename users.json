@@ -11,6 +11,12 @@
       "password": "2",
       "expires": "2031-12-10T23:59:59",
       "hwid": ""
+    },
+        {
+      "email": "gabrielsilva@gmail.com",
+      "password": "22",
+      "expires": "2031-12-10T23:59:59",
+      "hwid": ""
     }
   ]
 }

@@ -11,6 +11,12 @@
       "password": "2",
       "expires": "2031-12-10T23:59:59",
       "hwid": ""
+    }.
+        {
+      "email": "arcanjo",
+      "password": "01",
+      "expires": "2031-12-10T23:59:59",
+      "hwid": ""
     }
   ]
 }

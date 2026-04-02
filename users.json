@@ -5,30 +5,6 @@
       "password": "1",
       "expires": "2035-03-13T22:39:00",
       "hwid": "03000200-0400-0500-0006-000700080009"
-    },
-    {
-      "email": "2",
-      "password": "2",
-      "expires": "2035-03-13T22:39:00",
-      "hwid": "03000200-0400-0500-0006-000700080009"
-    },
-    {
-      "email": "rlk021",
-      "password": "rlk021",
-      "expires": "2026-03-31T23:00:00",
-      "hwid": "BA366400-AEE3-11EE-8EEA-C3E1361B1B00"
-    },
-     {
-      "email": "europeu@gmail.com",
-      "password": "bella22",
-      "expires": "2026-04-06T11:00:00",
-      "hwid": "876D4329-CBA1-0FE5-2943-6D87A1CBE50F"
-    },
-    {
-      "email": "Danielmartins@gmail.com",
-      "password": "vrj",
-      "expires": "2026-04-29T11:00:00",
-      "hwid": "03560274-043C-055E-7006-EB0700080009"
     }
   ]
 }

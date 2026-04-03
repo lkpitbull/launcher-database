@@ -29,6 +29,12 @@
       "password": "vrj",
       "expires": "2026-04-29T11:00:00",
       "hwid": "03560274-043C-055E-7006-EB0700080009"
+    },
+    {
+      "email": "lksilva@gmail.com",
+      "password": "vrj",
+      "expires": "2026-04-29T11:00:00",
+      "hwid": ""
     }
   ]
 }

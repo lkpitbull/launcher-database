@@ -35,6 +35,12 @@
       "password": "seven",
       "expires": "2026-05-02T11:00:00",
       "hwid": "8BD7C0D9-499B-5AB5-F31A-BCFCE76E1FC0"
+    },
+    {
+      "email": "douglas11@gmail.com",
+      "password": "1",
+      "expires": "2026-05-02T11:00:00",
+      "hwid": ""
     }
   ]
 }

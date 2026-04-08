@@ -1,14 +1,14 @@
 {
   "produtos": {
-    "Warzone Private": "Online",
-    "Warzone Public": "Online",
-    "1Click Spoofer": "Online",
-    "Pubg Private": "Online",
-    "Cs Private": "Online",
-    "1Click Global": "Online",
-    "TPM / SECURE BOOT BYPASS": "Online",
-    "BLOOD STRIKE": "Offline",
-    "Dayz Private": "Online",
-    "Dead By Daylight": "Online"
+    "Warzone Private": "online",
+    "1Click Spoofer": "online",
+    "Warzone Public": "online",
+    "Pubg Private": "offline",
+    "Cs Private": "online",
+    "1Click Global": "online",
+    "TPM / SECURE BOOT BYPASS": "online",
+    "BLOOD STRIKE": "online",
+    "Dayz Private": "online",
+    "Dead By Daylight": "online"
   }
 }

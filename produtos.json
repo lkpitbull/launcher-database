@@ -1,1 +1,62 @@
-
+[
+  {
+    "nome": "Warzone Private",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/warzone.jpg",
+    "descricao": ["🎯 AimbotConfig", "✅ Aimbot", "🔭 Alcance:", "🌀 Suavidade:", "🎯 Prioridade: 1 (alvo principal)", "🖱️ Duplo Atalho: Ativado", "➡️ Bind1: Tecla 1", "➡️ Bind2: Tecla 2", "", "👁️ VisualConfig", "✅ Visual", "🔍 Mostrar alcance: Sim", "➕ Mostrar mira (crosshair): Sim", "🟥 Mostrar caixas nos inimigos: Sim", "❤️ Mostrar barras de vida: Sim", "🌫️ Sombra da caixa: Desativada", "📏 Mostrar distância: Sim", "", "🛠️ MiscConfig", "🖼️ Renderização: 150", "", "🎨 ColorConfig", "🌈 Cor do alcance: ⚪ Branco", "➕ Cor da mira: ⚪ Branco", "👁️ Cor de inimigo visível: 💎 Ciano", "👻 Cor de inimigo invisível: 🩸 Vinho escuro"],
+    "precos": ["Diário - R$ 24,00", "Semanal - R$ 70,00", "Mensal - R$ 121,00"]
+  },
+  {
+    "nome": "1Click Spoofer",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/spoofer.png",
+    "descricao": ["🚀 LIBERTE-SE DOS BANIMENTOS", "━━━━━━━━━━━━━━━━━━", "• Remove ban Global / HWID", "• Remove banimento com apenas 1 CLICK", "• Processo rápido e seguro", "• Suporte em call disponível", "", "✔ Sem danificar seu computador", "✔ Sem exclusão de arquivos importantes", "✔ Processo simples e rápido"],
+    "precos": ["Diário - R$ 7,00", "Semanal - R$ 18,00", "Mensal - R$ 29,00"]
+  },
+  {
+    "nome": "Warzone Public",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/warzone.jpg",
+    "descricao": ["🎯 AimbotConfig", "✅ Aimbot", "🔭 Alcance:", "🌀 Suavidade:", "🎯 Prioridade: 1 (alvo principal)", "🖱️ Duplo Atalho: Ativado", "➡️ Bind1: Tecla 1", "➡️ Bind2: Tecla 2", "", "👁️ VisualConfig", "✅ Visual", "🔍 Mostrar alcance: Sim", "➕ Mostrar mira (crosshair): Sim", "🟥 Mostrar caixas nos inimigos: Sim", "❤️ Mostrar barras de vida: Sim", "🌫️ Sombra da caixa: Desativada", "📏 Mostrar distância: Sim"],
+    "precos": ["Diário - R$ 23,50", "Semanal - R$ 45,50", "Mensal - R$ 86,00"]
+  },
+  {
+    "nome": "Pubg Private",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/pubg.png",
+    "descricao": ["Funções:", "🎯Aim ( Totalmente configurável )", "🖱️Recoil Control", "✅Esp ( Linha, Esqueleto, Distancia e etc.. )", "", "Compatibilidade:", "Windows 10/11", "Defender desativado", "Processador: AMD/Intel/Xeon", "", "OBS: Em casos raros é necessario a formatação do PC"],
+    "precos": ["Diário - R$ 19,50", "Semanal - R$ 55,00", "Mensal - R$ 95,50"]
+  },
+  {
+    "nome": "Cs Private",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/cs.png",
+    "descricao": ["Funções:", "🎯Aim ( Totalmente configurável )", "🖱️Recoil Control", "✅Esp ( Linha, Esqueleto, Distancia e etc.. )", "", "Compatibilidade:", "Windows 10/11", "Defender desativado", "Processador: AMD/Intel/Xeon", "", "OBS: Em casos raros é necessario a formatação do PC"],
+    "precos": ["Diário - R$ 10,00", "Semanal - R$ 25,00", "Mensal - R$ 50,00"]
+  },
+  {
+    "nome": "1Click Global",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/1clickglobal.png",
+    "descricao": ["• RESUMINDO ESSE 1 CLICK IRÁ", "• RETIRAR APENAS BANIMENTOS", "• GLOBAIS COM CERTEZA", "• ELE RETIRA BAN PARA SEMPRE !"],
+    "precos": ["Diário - R$ 7,00", "Semanal - R$ 15,00", "Mensal - R$ 23,90"]
+  },
+  {
+    "nome": "TPM / SECURE BOOT BYPASS",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/tpm.png",
+    "descricao": ["• TPM Bypass", "• Secure Boot Bypass", "• HVIC Bypass", "• Safe to use & UD", "• No Extra Hardware Needed"],
+    "precos": ["Diário - R$ 12,00", "Semanal - R$ 25,00", "Mensal - R$ 55,00"]
+  },
+  {
+    "nome": "BLOOD STRIKE",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/bloodstrike.png",
+    "descricao": ["Funções:", "🎯Aim ( Totalmente configurável )", "🖱️Recoil Control", "✅Esp ( Linha, Esqueleto, Distancia e etc.. )", "", "Compatibilidade:", "Windows 10/11", "Defender desativado", "Processador: AMD/Intel/Xeon"],
+    "precos": ["Diário - R$ 14,50", "Semanal - R$ 29,00", "Mensal - R$ 75,00"]
+  },
+  {
+    "nome": "Dayz Private",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/dayzprivate.png",
+    "descricao": ["Funções:", "🎯Aim ( Totalmente configurável )", "🖱️Recoil Control", "✅Esp ( Linha, Esqueleto, Distancia e etc.. )", "", "Compatibilidade:", "Windows 10/11", "Defender desativado", "Processador: AMD/Intel/Xeon"],
+    "precos": ["Diário - R$ 20,00", "Semanal - R$ 79,00", "Mensal - R$ 140,00"]
+  },
+  {
+    "nome": "Dead By Daylight",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/dbd.png",
+    "descricao": ["Funções:", "• Esp ( Linha, Esqueleto, Distancia e etc.. )", "", "Compatibilidade:", "• Windows 10/11", "• Defender desativado", "• Processador: AMD/Intel/Xeon"],
+    "precos": ["Diário - R$ 13,00", "Semanal - R$ 36,00", "Mensal - R$ 95,00"]
+  }
+]

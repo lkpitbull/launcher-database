@@ -213,5 +213,23 @@
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
     "precos": ["Diário - R$ 13,00", "Semanal - R$ 36,00", "Mensal - R$ 95,00"]
+  },
+  {
+    "nome": "Mystic Menu",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/thum mystic novo.jpg",
+    "descricao": [
+    ✅ O executor inclui , dumper, ESP, aimbot e executor de código .lua.
+    ✅ Menu totalmente externo, não aparece na captura de tela.
+    ✅ Removendo o Modo Novato de todas as cidades.
+    ✅ Removendo a Tela de Morte de todas as cidades.
+    ✅ Bloqueando Tptome, Tpto, Segurar no H e tudo mais.
+    ✅ Funções troll para se divertir com o menu.
+    ✅ Funções de congelar, bugar e explodir sem tomar log de kill.
+    ✅ Interface do menu totalmente basica e rustica para o melhor conforto do usuario.
+    ✅ Menu totalmente otimizado.,
+      "",
+      "OBS: Em casos raros é necessario a formatação do PC"
+    ],
+    "precos": ["Diário - R$ 22,00", "Semanal - R$ 23,00", "Mensal - R$ 100,00"]
   }
 ]

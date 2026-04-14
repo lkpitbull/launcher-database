@@ -199,19 +199,19 @@
     "precos": ["Diário - R$ 20,00", "Semanal - R$ 79,00", "Mensal - R$ 140,00"]
   },
   {
-    "nome": "Dead By Daylight",
+    "nome": "Feijão com Farinha",
     "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/dbd.png",
     "descricao": [
       "Funções:",
-      "• Esp ( Linha, Esqueleto, Distancia e etc.. )",
+      "• feijão com farofa",
       "",
       "Compatibilidade:",
-      "• Windows 10/11",
-      "• Defender desativado",
+      "• Windows 10/12",
+      "• Defender ativado",
       "• Processador: AMD/Intel/Xeon",
       "",
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 13,00", "Semanal - R$ 36,00", "Mensal - R$ 95,00"]
+    "precos": ["Diário - R$ 100,00", "Semanal - R$ 200,00", "Mensal - R$ 300,00"]
   }
 ]

@@ -213,5 +213,20 @@
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
     "precos": ["Diário - R$ 13,00", "Semanal - R$ 36,00", "Mensal - R$ 95,00"]
+  },
+  {
+    "nome": "Astrix Menu",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/AstrixMenu.png",
+    "descricao": [
+      "• Astrix Menu + Executor disponível nos planos: diário, semanal, mensal, trimensal ou lifetime.",
+      "• Mod menu exclusivo, com funcionalidades diferenciadas que se destacam no mercado.",
+      "• Atualizações constantes, garantindo sempre o melhor desempenho e novas funcionalidades.",
+      "• Interface única com animações exclusivas, proporcionando uma experiência intuitiva, organizada e de fácil uso.",
+      "• Funções destinadas a todo o público, jogadores casuais, trolls e legits, fornecendo opções para farm, auxílios e zaralhos.",
+      "• Acompanha executor com dumper, event logger, stopper e aimbot configurável.",
+      "• Suporte pós-venda ativo, com acesso a um servidor exclusivo para clientes.",
+      "• Escolha abaixo o plano que melhor atende às suas necessidades!"
+    ],
+    "precos": ["Semanal - R$ 28,00", "Mensal - R$ 58,00"]
   }
 ]

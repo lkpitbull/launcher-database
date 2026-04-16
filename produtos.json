@@ -219,6 +219,7 @@
     "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/Astrixmenu.png",
     "descricao": [
       "Funções:",
+		
       "• Astrix Menu + Executor disponível nos planos: diário, semanal, mensal, trimensal ou lifetime.",
       "",
       "• Mod menu exclusivo, com funcionalidades diferenciadas que se destacam no mercado.",
@@ -228,9 +229,7 @@
 	  "• Acompanha executor com dumper, event logger, stopper e aimbot configurável.",
 	  "• Suporte pós-venda ativo, com acesso a um servidor exclusivo para clientes.",
 	  "• Escolha abaixo o plano que melhor atende às suas necessidades!",
-      "",
-      "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 0,00", "Semanal - R$ 0,00", "Mensal - R$ 0,00"]
+    "precos": ["Semanal - R$ 28,00", "Mensal - R$ 58,00"]
   }
 ]

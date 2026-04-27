@@ -1,5 +1,5 @@
 {
   "ativo": true,
   "mensagem": "agente que manda aqui !!",
-  "tipo": "info"
+  "tipo": "aviso"
 }

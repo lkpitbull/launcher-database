@@ -69,39 +69,6 @@
     "precos": ["Diário - R$ 7,00", "Semanal - R$ 18,00", "Mensal - R$ 29,00"]
   },
   {
-    "nome": "Warzone Public",
-    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/warzone.jpg",
-    "descricao": [
-      "🎯 AimbotConfig",
-      "✅ Aimbot",
-      "🔭 Alcance:",
-      "🌀 Suavidade:",
-      "🎯 Prioridade: 1 (alvo principal)",
-      "🖱️ Duplo Atalho: Ativado",
-      "➡️ Bind1: Tecla 1",
-      "➡️ Bind2: Tecla 2",
-      "",
-      "👁️ VisualConfig",
-      "✅ Visual",
-      "🔍 Mostrar alcance: Sim",
-      "➕ Mostrar mira (crosshair): Sim",
-      "🟥 Mostrar caixas nos inimigos: Sim",
-      "❤️ Mostrar barras de vida: Sim",
-      "🌫️ Sombra da caixa: Desativada",
-      "📏 Mostrar distância: Sim",
-      "",
-      "🛠️ MiscConfig",
-      "🖼️ Renderização: 150",
-      "",
-      "🎨 ColorConfig",
-      "🌈 Cor do alcance: ⚪ Branco",
-      "➕ Cor da mira: ⚪ Branco",
-      "👁️ Cor de inimigo visível: 💎 Ciano",
-      "👻 Cor de inimigo invisível: 🩸 Vinho escuro"
-    ],
-    "precos": ["Diário - R$ 19,50", "Semanal - R$ 45,50", "Mensal - R$ 86,00"]
-  },
-  {
     "nome": "Pubg Private",
     "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/pubg.png",
     "descricao": [

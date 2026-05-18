@@ -29,6 +29,12 @@
       "password": "seven",
       "expires": "2026-05-02T11:00:00",
       "hwid": "8BD7C0D9-499B-5AB5-F31A-BCFCE76E1FC0"
+    },
+    {
+      "email": "Kira7w7@gmail.com",
+      "password": "kira7w7",
+      "expires": "2026-06-16T11:00:00",
+      "hwid": ""
     }
   ]
 }

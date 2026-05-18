@@ -249,5 +249,15 @@
       "• Escolha abaixo o plano que melhor atende às suas necessidades!"
     ],
     "precos": ["Semanal - R$ 28,00", "Mensal - R$ 58,00"]
+  },
+  {
+    "nome": "TESTE021",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/teste021.jpg",
+    "descricao": [
+      "TESTE",
+      "",
+      "OBS: Em casos raros é necessario a formatação do PC"
+    ],
+    "precos": ["Diário - R$ 9999", "Semanal - R$ 99995,00", "Mensal - R$ 9999,50"]
   }
 ]

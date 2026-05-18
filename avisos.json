@@ -1,5 +1,5 @@
 {
-  "ativo": false,
-  "mensagem": "⚠️ Manutenção hoje às 20h!",
-  "tipo": "aviso"
+  "ativo": true,
+  "mensagem": "Teste bb da rockzone",
+  "tipo": "info"
 }

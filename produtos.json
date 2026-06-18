@@ -30,61 +30,7 @@
       "👁️ Cor de inimigo visível: 💎 Ciano",
       "👻 Cor de inimigo invisível: 🩸 Vinho escuro"
     ],
-    "precos": ["Diário - R$ 24,00", "Semanal - R$ 70,00", "Mensal - R$ 121,00"]
-  },
-  {
-    "nome": "Galaxy External",
-    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/GalaxyExternal.png",
-    "descricao": [
-  "💻 Compatibilidade",
-  "✅ Windows 10: Compatível",
-  "✅ Windows 11: Compatível + 25H2",
-  "🔵 Intel e AMD: Compatível",
-  "🎮 Battle.Net: Compatível",
-  "🎮 Steam: Compatível",
-  "🎮 Gamepass: Compatível",
-  "🛡️ Spoofer/Bloqueador de AC integrado - Compatível com TPM!",
-  "🔫 Funcionando no BO7 e Warzone",
-  "🕹️ Totalmente compatível com controles",
-  "👾 Spoofer de TPM e Bloqueador de AC integrados",
-  "",
-  "🎯 Aimbot",
-  "🖱️ Aimkey",
-  "🦴 Random Bone",
-  "⭕ Dead Zone",
-  "🔭 Dead Zone FOV",
-  "📏 Dead Zone Distance",
-  "🔭 Aimbot FOV",
-  "📐 Aimbot FOV Size",
-  "➕ Crosshair",
-  "📏 Crosshair Size",
-  "🌀 Smoothness",
-  "📏 Aimbot Distance",
-  "",
-  "👁️ Visuals",
-  "🦴 Skeleton ESP",
-  "🟦 3D Box ESP",
-  "🟥 2D Box ESP",
-  "📐 2D Box Bracket ESP",
-  "📍 Snapline ESP",
-  "❤️ Health ESP",
-  "🏷️ Name ESP",
-  "📏 Distance ESP",
-  "👁️ Visible Only",
-  "🤝 Team Check",
-  "🎨 Fill Box",
-  "📡 ESP Distance",
-  "🎨 ESP Color Settings",
-  "",
-  "🗺️ Radar",
-  "🧍 Player",
-  "🧟 Zombies",
-  "📏 Distance",
-  "💰 Loot ESP",
-  "",
-  "👻 Stream Mode"
-],
-    "precos": ["Diário - R$ 17,00", "Semanal - R$ 50,00", "Mensal - R$ 100,00"]
+    "precos": ["Diário - R$ 27,99", "Semanal - R$ 74,99", "Mensal - R$ 169,99"]
   },
   {
     "nome": "1Click Spoofer",
@@ -138,7 +84,7 @@
       "",
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 19,50", "Semanal - R$ 55,00", "Mensal - R$ 95,50"]
+    "precos": ["Diário - R$ 19,99", "Semanal - R$ 64,99", "Mensal - R$ 149,99"]
   },
   {
     "nome": "CS2",
@@ -156,7 +102,7 @@
       "",
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 10,00", "Semanal - R$ 25,00", "Mensal - R$ 50,00"]
+    "precos": ["Diário - R$ 12,99", "Semanal - R$ 24,99", "Mensal - R$ 69,99"]
   },
   {
     "nome": "1Click Global",
@@ -173,7 +119,7 @@
   },
   {
     "nome": "TPM / SECURE BOOT BYPASS",
-    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/tpm.png",
+    "imagem": "https://raw.githubusercontent.com/lkpitbull/launcher-database/refs/heads/main/imagens/tpmtpmcod.png",
     "descricao": [
       "• TPM Bypass",
       "• Secure Boot Bypass",
@@ -181,7 +127,7 @@
       "• Safe to use & UD",
       "• No Extra Hardware Needed"
     ],
-    "precos": ["Diário - R$ 17,00", "Semanal - R$ 45,00", "Mensal - R$ 79,99"]
+    "precos": ["Diário - R$ 19,99", "Semanal - R$ 59,99", "Mensal - R$ 169,99"]
   },
   {
     "nome": "BLOOD STRIKE",
@@ -199,7 +145,7 @@
       "",
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 14,50", "Semanal - R$ 29,00", "Mensal - R$ 75,00"]
+    "precos": ["Diário - R$ 19,99", "Semanal - R$ 39,99", "Mensal - R$ 99,99"]
   },
   {
     "nome": "Dayz Private",
@@ -217,7 +163,7 @@
       "",
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 20,00", "Semanal - R$ 79,00", "Mensal - R$ 140,00"]
+    "precos": ["Diário - R$ 22,99", "Semanal - R$ 74,99", "Mensal - R$ 159,99"]
   },
   {
     "nome": "Dead By Daylight",
@@ -233,7 +179,7 @@
       "",
       "OBS: Em casos raros é necessario a formatação do PC"
     ],
-    "precos": ["Diário - R$ 13,00", "Semanal - R$ 36,00", "Mensal - R$ 95,00"]
+    "precos": ["Diário - R$ 14,99", "Semanal - R$ 39,99", "Mensal - R$ 99,99"]
   },
   {
     "nome": "Astrix Menu",
